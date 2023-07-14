@@ -1,0 +1,9 @@
+PokeDex - Using PokeAPI V2 - React + Next + MUI
+GOALS:
+1. Building a home page with navigation bar (Pokedex page, Moves page, about us page, ...)
+2. Home page will list some daily random pokemons
+3. Detail page for pokemon infomations
+4. page to Compare 2 pokemon
+5. Evolution page
+6. Catching page
+7. Pokemon Moves page
